@@ -1,6 +1,6 @@
 # Machine Learning with Python
 
-Benvenuti alla formazione su Machine Learning con Python! Questo repository contiene due notebook Jupyter che approfondiscono i concetti e le tecniche di machine learning utilizzando Python e la libreria scikit-learn (Sklearn).
+Benvenuti alla formazione sul Machine Learning con Python! Questo repository contiene due notebook Jupyter che approfondiscono i concetti e le tecniche di machine learning utilizzando Python e la libreria scikit-learn (Sklearn).
 
 ## Machine Learning
 
