@@ -8,9 +8,6 @@ Il machine learning è una disciplina che permette ai computer di apprendere dai
 
 - Introduzione al machine learning
 - Tipologie di machine learning (supervisionato, non supervisionato, rinforzato)
-- Concetti di base: feature, target, modello
-- Regressione lineare
-- Coefficiente R^2 (R squared)
 
 ## Sklearn
 
@@ -20,5 +17,10 @@ Il notebook `02_Sklearn.ipynb` approfondisce l'utilizzo della libreria scikit-le
 - Preprocessing workflow e Exploratory Data Analysis (EDA)
 - Creazione del modello
 - Metriche di valutazione della regressione
+
+## Modelli supervisionati
+Di seguito viene riportato l'elenco dei notebook che approfondiscono i modelli supervisionati:
+- `03_Linear_Regression.ipynb`: la regressione lineare 
+
 
 Esplorate questi notebook per acquisire una solida comprensione dei concetti e delle tecniche di machine learning con Python utilizzando la libreria scikit-learn.
