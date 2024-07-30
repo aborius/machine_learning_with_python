@@ -18,10 +18,16 @@ Il notebook `02_Sklearn.ipynb` approfondisce l'utilizzo della libreria scikit-le
 - Creazione del modello
 - Metriche di valutazione della regressione
 
-## Modelli supervisionati
-Di seguito viene riportato l'elenco dei notebook che approfondiscono i modelli supervisionati:
-- `03_Linear_Regression.ipynb`: la regressione lineare
-- `04_Multiple_Regression.ipynb`: la regressione multipla 
-
+## Altri notebook in ambito Machine Learning
+Di seguito viene riportato l'elenco dei notebook che approfondisce il Machine Learning con python:
+- `03_Hyperparameters_Model_Validation.ipynb`
+- `05_Naive_Bayes.ipynb`
+- `06_Linear_Regression.ipynb`
+- `07_Multiple_Regression.ipynb`
+- `08_Support_Vector_Machines.ipynb`
+- `09_Random_Forest.ipynb`
+- `10_Principal_Component_Analysis.ipynb`
+- `11_K-Means.ipynb`
+- `12_Gaussian_Mixtures.ipynb`
 
 Esplorate questi notebook per acquisire una solida comprensione dei concetti e delle tecniche di machine learning con Python utilizzando la libreria scikit-learn.
